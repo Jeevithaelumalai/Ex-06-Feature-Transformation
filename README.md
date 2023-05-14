@@ -83,15 +83,25 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 plt.show()
 ```
 # OUTPUT:
+
 # DATASET :
+
 ![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/746f466e-7c07-4bf9-8a6f-67d019ce4040)
+
 # df.head():
+
 ![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/7b3fce58-29d1-491f-ae93-90fc9578caaa)
+
 # df.isnull().sum():
+
 ![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/e4a5add0-0d0a-41b8-a8a7-fb33105827c3)
+
 # df.info():
+
 ![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/bccc6920-2317-47f8-b37b-f22235960e4b)
+
 # df.describe():
+![Uploading image.png…]()
 
 
 
