@@ -101,7 +101,35 @@ plt.show()
 ![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/bccc6920-2317-47f8-b37b-f22235960e4b)
 
 # df.describe():
-![Uploading image.png…]()
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/b3a36ae4-d774-4e88-ab54-c2252e0857b6)
 
+# Highly Positive Skew() :
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/7e9d9447-fc1f-40c2-a767-8c6d2fd71e77)
 
+# Highly Negative Skew():
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/1f296a21-a1bd-4346-a82d-8dfe39cf60ac)
 
+# Moderate Positive Skew():
+
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/a9f3909a-e9e2-4df8-957a-9f555c5850ed)
+
+# 'Moderate Negative Skew:
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/dcf65fa6-da4a-416b-b7ec-b2879de505be)
+
+# 'Highly Positive Skew1:
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/a5655597-1889-4a75-b86c-87148a8d5f22)
+
+# Highly Positive Skew':
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/26f6400a-6c09-43aa-a9b1-a983e183cd51)
+
+# 'Moderate Positive Skew_1':
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/6bb76688-f55e-48b9-a487-9ca50376f898)
+
+# 'Moderate Negative Skew_1:
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/95bcb0ff-d1c5-4820-b2c3-2bde9da465b5)
+
+# 'Moderate Negative Skew_2'
+![image](https://github.com/Jeevithaelumalai/Ex-06-Feature-Transformation/assets/118708245/bede5cfc-b74f-4038-aeba-927966479c61)
+
+# RESULT:
+Thus, Feature transformation is performed and executed successfully for the given dataset.
